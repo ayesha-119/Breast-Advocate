@@ -24,7 +24,7 @@
 $ git clone https://github.com/ayesha-119/Breast-Advocate.git
 
 # Go into the repository
-$ cd Pink-Girl
+$ cd Breast-Advocate
 
 # Open project in VS code
 $ code .
@@ -46,12 +46,5 @@ https://drive.google.com/file/d/1ywnpQv0ByQea6fmdYre3l0DoU3T5YWg1/view
 ```
 
 
-
-
-#### and if you are having any trouble in ruuning this app just email us and we'll help you ASAP..!
-
-```
-# your email
-```
 
 
